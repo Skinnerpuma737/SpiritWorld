@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zf5Iapizaw6CKqtxVbL3gpSwf0lQ3CzWmw8PTQ3u34hXt8SYUQnSQ4QdBEA7sBx7UiOnbNC62KxwUg4i1aLZ6A==",
+  "success": true,
+  "projectFilePath": "D:\\dzmil\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\SpiritWorld\\SpiritWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzmil\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

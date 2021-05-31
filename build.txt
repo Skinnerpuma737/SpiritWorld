@@ -1,0 +1,3 @@
+displayName = Spirit World
+author = Skinnerpuma737
+version = 0.1
